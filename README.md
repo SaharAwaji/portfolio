@@ -8,3 +8,7 @@ I'm [Sahar Awaji](https://www.linkedin.com/in/sahar-awaji-a82537b1/), a PhD stud
 - Successfully defended my dissertation.
 - Published a new paper on entropy and social dynamics.
 - Upcoming conference presentation on agent-based modeling.
+
+</details>
+
+For more updates, please visit my [personal page](https://yourpersonalwebsite.com).
