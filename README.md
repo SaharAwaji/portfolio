@@ -1,4 +1,4 @@
-![UCF](https://github.com/S7orx/portfolio/blob/main/ucf%20.png)
+![UCF](https://github.com/S7orx/portfolio/blob/main/logo%20of%20ucf.png)
 ![Skydiving](https://github.com/S7orx/portfolio/blob/main/skydiving%20.jpeg)
 
 
