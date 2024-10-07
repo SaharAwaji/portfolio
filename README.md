@@ -1,7 +1,7 @@
 # Welcome!
+<img src="https://github.com/SaharAwaji/personal-website/blob/main/logo%20of%20ucf.png" width="300"/>
+<img src="https://github.com/S7orx/portfolio/blob/main/skydiving%20.jpeg" width="300"/>
 
-![UCF](https://github.com/SaharAwaji/personal-website/blob/main/logo%20of%20ucf.png)
-![Skydiving](https://github.com/S7orx/portfolio/blob/main/skydiving%20.jpeg)
 
 I'm [Sahar Awaji](https://www.linkedin.com/in/dr-sahar-awaji-phd-a82537b1/), a PhD student at the University of Central Florida. When I was pursuing my PhD, I was focused on integrating social physics, computational modeling, and statistics to understand social change. 
 <details>
