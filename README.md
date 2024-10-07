@@ -5,8 +5,8 @@
 </p>
 
 
-I'm [Sahar Awaji](https://www.linkedin.com/in/dr-sahar-awaji-phd-a82537b1/), a PhD student at the University of Central Florida. When I was pursuing my PhD, I was focused on integrating social physics, computational modeling, and statistics to understand social change. 
-<details>
+I'm [Sahar Awaji](https://www.linkedin.com/in/dr-sahar-awaji-phd-a82537b1/), a Data Scientist with a PhD in Big Data Analytics from the University of Central Florida. During my PhD, I focused on integrating social physics, computational modeling, and statistics to analyze and predict social change. My expertise includes Big Data Analytics, Machine Learning, Bayesian Modeling, and Econometrics, with extensive experience in applying these methodologies to real-world problems in Data Science, Econometrics, and Statistical Modeling.
+
 <summary>News & Updates: (Click to expand)</summary>
 
 - **August 2024**: Graduating with a Ph.D. in Big Data Analytics at the University of Central Florida.
