@@ -2,8 +2,8 @@
 <p align="center">
   <img src="https://github.com/SaharAwaji/personal-website/blob/main/logo%20of%20ucf.png" width="300"/>
   <img src="https://github.com/S7orx/portfolio/blob/main/skydiving%20.jpeg" width="300"/>
-  <img src="https://github.com/SaharAwaji/personal-website/blob/main/.png" width="300"/>
-  <img src="https://github.com/SaharAwaji/personal-website/blob/main/.png" width="300"/>
+  <img src="https://github.com/SaharAwaji/personal-website/blob/main/SDA.png" width="300"/>
+  <img src="https://github.com/SaharAwaji/personal-website/blob/main/CDMP.png" width="300"/>
 
 </p>
 
