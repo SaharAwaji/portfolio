@@ -4,6 +4,8 @@
   <img src="https://github.com/S7orx/portfolio/blob/main/skydiving%20.jpeg" width="200"/>
   <img src="https://github.com/SaharAwaji/portfolio/blob/main/SDA.png" width="200"/>
   <img src="https://github.com/SaharAwaji/portfolio/blob/main/CDMP.png" width="200"/>
+  <img src="https://github.com/SaharAwaji/portfolio/blob/main/wedata.png" width="200"/>
+
 
 </p>
 
