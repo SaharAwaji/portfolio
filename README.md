@@ -1,10 +1,11 @@
 # Welcome!
 <p align="center">
-  <img src="https://github.com/SaharAwaji/personal-website/blob/main/logo%20of%20ucf.png" width="100"/>
-  <img src="https://github.com/S7orx/portfolio/blob/main/skydiving%20.jpeg" width="100"/>
-  <img src="https://github.com/SaharAwaji/portfolio/blob/main/SDA.png" width="100"/>
-  <img src="https://github.com/SaharAwaji/portfolio/blob/main/CDMP.png" width="100"/>
-  <img src="https://github.com/SaharAwaji/portfolio/blob/main/wedata.png" width="100"/>
+  <img src="https://github.com/SaharAwaji/personal-website/blob/main/logo%20of%20ucf.png" width="150"/>
+  <img src="https://github.com/S7orx/portfolio/blob/main/skydiving%20.jpeg" width="150"/>
+  <img src="https://github.com/SaharAwaji/portfolio/blob/main/SDA.png" width="150"/>
+  <img src="https://github.com/SaharAwaji/portfolio/blob/main/wedata.png" width="150"/>
+  <img src="https://github.com/SaharAwaji/portfolio/blob/main/CDMP.png" width="150"/>
+
 
 
 </p>
