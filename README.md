@@ -8,7 +8,7 @@
 </p>
 
 
-I'm [Sahar Awaji](https://www.linkedin.com/in/dr-sahar-awaji-phd-a82537b1/), a Data Scientist with a PhD in Big Data Analytics from the University of Central Florida. During my PhD, I focused on integrating social physics, computational modeling, and statistics to analyze and predict social change. My expertise includes Big Data Analytics, Machine Learning, Bayesian Modeling, and Econometrics, with extensive experience in applying these methodologies to real-world problems in Data Science, Econometrics, and Statistical Modeling.
+I'm [Sahar Awaji](https://www.linkedin.com/in/sahar-awaji-a82537b1/), a Data Scientist with a PhD in Big Data Analytics from the University of Central Florida. During my PhD, I focused on integrating social physics, computational modeling, and statistics to analyze and predict social change. My expertise includes Big Data Analytics, Machine Learning, Bayesian Modeling, and Econometrics, with extensive experience in applying these methodologies to real-world problems in Data Science, Econometrics, and Statistical Modeling.
 
 I am also a graduate of an advanced Data Management Bootcamp (May 2025) offered by the Saudi Digital Academy in collaboration with WeCloudData, where I enhanced my skills in data governance, cloud data engineering, and AI-powered analytics. Furthermore, I achieved the Certified Data Management Professional (CDMP) credential in July 2025, demonstrating comprehensive knowledge across data management domains based on the DAMA-DMBOK framework.
 
